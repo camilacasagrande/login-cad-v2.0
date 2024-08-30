@@ -2,6 +2,7 @@
  
 # ``Índice``
  
+ *[NEW](#new)
 * [Introdução](#introdução)
 * [Descrição](#descrição)
 * [Oque alteramos](#oque-alteramos)
@@ -9,7 +10,10 @@
 * [Autor](#autor)
 * [Resultado](#resultado)
  
-# ´´Introdução´´
+# ``NEW``
+Este projeto é uma versão melhorada e aprimorada de [LOGIN CAD v2](https://github.com/camilacasagrande/login-cad-V2), onde arrumamos erros do antigo trabalho, que tinha como objetivo adicionar avanços na tela de cadastro permitindo que o usuário consiga adicionar um novo Email, salvar, editar ou exclui-lo. Também adicionamos uma melhoria que permite agora preencher o campo de CPF, validando o mesmo.
+
+# ``Introdução``
     Este projeto consiste em um sistema simples de login e cadastro de usuários, desenvolvido em JavaScript, HTML e CSS. O objetivo principal é fornecer uma interface amigável onde os usuários podem se registrar com seus nomes e, em seguida, visualizar, editar ou excluir suas informações cadastradas.
  
     ° Funcionalidades Principais:
